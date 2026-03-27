@@ -9,7 +9,7 @@
 
 SIPENA (*Sistem Pengelolaan Data Administratif*) adalah aplikasi web  
 yang digunakan untuk membantu pengelolaan data administrasi seperti  
-surat masuk, surat keluar, dan memo dalam lingkungan kerja/pemerintahan.  
+surat masuk, surat keluar, memo, dan nota dinas dalam lingkungan kerja/pemerintahan.  
 
 Project ini dibuat sebagai bagian dari proses **magang** dan masih dalam tahap pengembangan.  
 Fokus utama adalah membangun sistem yang **terstruktur, mudah digunakan, dan berbasis data**.  
@@ -20,9 +20,9 @@ Fokus utama adalah membangun sistem yang **terstruktur, mudah digunakan, dan ber
 
 - 📥 Manajemen surat masuk  
 - 📤 Manajemen surat keluar  
-- 📝 Pengelolaan memo  
-- 📊 Penyimpanan dan pengolahan data administratif  
-- 🗂️ Riwayat data (tracking sederhana)  
+- 📝 Pengelolaan memo & nota dinas  
+- 📊 Rekapan data (bulanan & tahunan)  
+- 🗂️ Penyimpanan dan riwayat data administratif  
 
 ---
 
