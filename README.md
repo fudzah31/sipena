@@ -1,34 +1,60 @@
-# 🌌 SIPENA
-> digital archive, but make it aesthetic.  
+# 🌊 SIPENA  
 
-SIPENA (*SISTEM PENGELOLAAN DATA ADMINISTRATIF*)  
-is a web app for handling letters, memos, and official docs.  
-built not just to function, but to vibe.  
+> Sistem Pengelolaan Data Administratif berbasis web  
+> dengan tampilan sederhana dan nuansa biru-hijau yang bersih.  
 
 ---
 
-## ⚡ Features
-- incoming letters, without the paper cuts  
-- outgoing letters, no stamps needed  
-- memos, but in pixels not photocopies  
-- history tracking, because the past matters  
+## 📌 About  
+
+SIPENA (*Sistem Pengelolaan Data Administratif*) adalah aplikasi web  
+yang digunakan untuk membantu pengelolaan data administrasi seperti  
+surat masuk, surat keluar, dan memo dalam lingkungan kerja/pemerintahan.  
+
+Project ini dibuat sebagai bagian dari proses **magang** dan masih dalam tahap pengembangan.  
+Fokus utama adalah membangun sistem yang **terstruktur, mudah digunakan, dan berbasis data**.  
 
 ---
 
-## 🛠️ Stack
-- **Laravel** – the backbone  
-- **Blade** – templating made smooth  
-- **CSS** – styling with soul  
-- **JavaScript** – small magic tricks  
-- **PHP** – classic, still strong  
-- **MySQL** – memory keeper  
+## ⚙️ Features  
+
+- 📥 Manajemen surat masuk  
+- 📤 Manajemen surat keluar  
+- 📝 Pengelolaan memo  
+- 📊 Penyimpanan dan pengolahan data administratif  
+- 🗂️ Riwayat data (tracking sederhana)  
 
 ---
 
-## 🎧 Aesthetic
-crafted in between late-night sessions,  
-powered by coffee & playlists.  
+## 🛠️ Tech Stack  
+
+- 🐘 PHP  
+- 🚀 Laravel  
+- 🎨 Blade Template  
+- 💠 CSS (tema biru-hijau / clean UI)  
+- ⚡ JavaScript  
+- 🗄️ MySQL (Database)  
 
 ---
 
-✦ *sipena is not just code, it’s a digital mixtape for bureaucracy.*
+## 🎯 Purpose  
+
+- Membantu digitalisasi administrasi  
+- Mengurangi penggunaan dokumen fisik  
+- Mempermudah pengelolaan dan pencarian data  
+
+---
+
+## ⚠️ Current Status  
+
+Project ini masih dalam tahap pengembangan awal.  
+Beberapa fitur mungkin belum lengkap dan masih terdapat bug.  
+
+---
+
+## 🌱 Note  
+
+Ini adalah project pertama saya dalam lingkungan kerja (magang),  
+dibuat sebagai proses belajar dan pengembangan skill secara nyata.  
+
+> learning by building real systems.
